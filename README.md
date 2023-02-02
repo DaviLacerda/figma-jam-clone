@@ -1,4 +1,4 @@
-# FigJam
+# FigJam (still in development 🛠)
 
 ![Banner](https://github.com/DaviLacerda/figma-jam-clone/blob/main/readme/banner_figjam.png)
  
