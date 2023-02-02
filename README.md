@@ -14,3 +14,5 @@
 ## Youtube Video 💻
 
 * Rocketseat video [here](https://www.youtube.com/watch?v=J3vbTM21uDs) 
+
+> Made with 💜 by [Davi Lacerda](https://github.com/davilacerda)
